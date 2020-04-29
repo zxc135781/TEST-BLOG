@@ -11,8 +11,11 @@ branches:
 
 install:
 # 安装最新的hugo
-  - go get github.com/gohugoio/hugo
-
+  - mkdir $HOME/src
+  - cd $HOME/src
+  - git clone https://github.com/gohugoio/hugo.git
+  - cd hugo
+  - go install
 script:
 # 运行hugo命令
   - hugo
