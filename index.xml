@@ -12,15 +12,6 @@
     
     
     <item>
-      <title>Java 方法总结</title>
-      <link>https://ihux.cn/posts/my-first-post/</link>
-      <pubDate>Mon, 13 May 2019 19:19:58 +0800</pubDate>
-      
-      <guid>https://ihux.cn/posts/my-first-post/</guid>
-      <description>Java Math类 Java BigInteger常用方法 BigInteger abs() 返回大整数的绝对值 BigInteger add(BigInteger val) 返回两个大整数的和 BigInteger and(BigInteger val) 返回两个大整数的按位与的结果 BigInteger andNot(BigInteger val) 返回两个大整数与非的结果 BigInteger divide(BigInteger val) 返回两个大整数的商 double doubleValue() 返回大整数的doub</description>
-    </item>
-    
-    <item>
       <title>关于</title>
       <link>https://ihux.cn/about/</link>
       <pubDate>Sat, 29 Dec 2018 20:24:28 +0800</pubDate>
