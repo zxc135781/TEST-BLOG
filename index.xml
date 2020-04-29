@@ -1,1 +1,42 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>祀画の次元</title><link>https://ihux.cn/</link><description>Recent content on 祀画の次元</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Sat, 29 Dec 2018 20:24:28 +0800</lastBuildDate><atom:link href="https://ihux.cn/index.xml" rel="self" type="application/rss+xml"/><item><title>Java 方法总结</title><link>https://ihux.cn/posts/my-first-post/</link><pubDate>Mon, 13 May 2019 19:19:58 +0800</pubDate><guid>https://ihux.cn/posts/my-first-post/</guid><description>Java Math类 Java BigInteger常用方法 BigInteger abs() 返回大整数的绝对值 BigInteger add(BigInteger val) 返回两个大整数的和 BigInteger and(BigInteger val) 返回两个大整数的按位与的结果 BigInteger andNot(BigInteger val) 返回两个大整数与非的结果 BigInteger divide(BigInteger val) 返回两个大整数的商 double doubleValue() 返回大整数的doub</description></item><item><title>关于</title><link>https://ihux.cn/about/</link><pubDate>Sat, 29 Dec 2018 20:24:28 +0800</pubDate><guid>https://ihux.cn/about/</guid><description>GPG:830E 73A6 AD63 9ABA</description></item><item><title>友链</title><link>https://ihux.cn/link/</link><pubDate>Sat, 29 Dec 2018 20:24:28 +0800</pubDate><guid>https://ihux.cn/link/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>祀画の次元</title>
+    <link>https://ihux.cn/</link>
+    <description>Recent content on 祀画の次元</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 29 Dec 2018 20:24:28 +0800</lastBuildDate>
+    
+	<atom:link href="https://ihux.cn/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Java 方法总结</title>
+      <link>https://ihux.cn/posts/my-first-post/</link>
+      <pubDate>Mon, 13 May 2019 19:19:58 +0800</pubDate>
+      
+      <guid>https://ihux.cn/posts/my-first-post/</guid>
+      <description>Java Math类 Java BigInteger常用方法 BigInteger abs() 返回大整数的绝对值 BigInteger add(BigInteger val) 返回两个大整数的和 BigInteger and(BigInteger val) 返回两个大整数的按位与的结果 BigInteger andNot(BigInteger val) 返回两个大整数与非的结果 BigInteger divide(BigInteger val) 返回两个大整数的商 double doubleValue() 返回大整数的doub</description>
+    </item>
+    
+    <item>
+      <title>关于</title>
+      <link>https://ihux.cn/about/</link>
+      <pubDate>Sat, 29 Dec 2018 20:24:28 +0800</pubDate>
+      
+      <guid>https://ihux.cn/about/</guid>
+      <description>GPG:830E 73A6 AD63 9ABA</description>
+    </item>
+    
+    <item>
+      <title>友链</title>
+      <link>https://ihux.cn/link/</link>
+      <pubDate>Sat, 29 Dec 2018 20:24:28 +0800</pubDate>
+      
+      <guid>https://ihux.cn/link/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
