@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>命令 on 祀画の次元</title>
+    <link>https://ihux.cn/tags/%E5%91%BD%E4%BB%A4/</link>
+    <description>Recent content in 命令 on 祀画の次元</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 13 May 2019 19:19:58 +0800</lastBuildDate>
+    
+	<atom:link href="https://ihux.cn/tags/%E5%91%BD%E4%BB%A4/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>常用安全厂商命令</title>
+      <link>https://ihux.cn/posts/trx/</link>
+      <pubDate>Mon, 13 May 2019 19:19:58 +0800</pubDate>
+      
+      <guid>https://ihux.cn/posts/trx/</guid>
+      <description>天融信 天融信关闭状态检测 双向通信 network session session-integrity off 信核灾备 默认用户名 root 默认密码 infocore 重启服务 systemctl restart osnstm</description>
+    </item>
+    
+  </channel>
+</rss>
