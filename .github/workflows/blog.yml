@@ -5,7 +5,7 @@ on: [push]
 # 各种信息在此处设置
 env:
   # config.toml 里 theme 的值
-  THEME_NAME: left
+  THEME_NAME: zozo
   # 主题的 github 链接
   THEME_REPO: https://github.com/varkai/hugo-theme-zozo.git
   # github username
@@ -66,4 +66,4 @@ jobs:
           cd $HOME/blog/public
           git add .
           git commit -m "Auto Update: `date +'%Y-%m-%d %H:%M:%S'`"
-          git push "https://$USER:$GH_TOKEN@github.com/$USER_NAME/TEST-BLOG.git" master:master
+          git push "https://$USER:$GH_TOKEN@github.com/$USER_NAME/TEST-BLOG.git" master:gp
