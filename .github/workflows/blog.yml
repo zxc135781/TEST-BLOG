@@ -42,7 +42,7 @@ jobs:
       # 获取 $user.github.io 以保持 commit 记录
       - name: get username.github.io
         run: |
-          git clone --no-checkout https://github.com/$USER_NAME/$USER_NAME.github.io.git $HOME/blog/public
+          git clone --no-checkout https://github.com/$USER_NAME/TEST-BLOG.git $HOME/blog/public
 
       # 将内容文件复制进入站点内
       - name: copy in
@@ -66,4 +66,4 @@ jobs:
           cd $HOME/blog/public
           git add .
           git commit -m "Auto Update: `date +'%Y-%m-%d %H:%M:%S'`"
-          git push "https://$USER:$GH_TOKEN@github.com/$USER_NAME/$USER_NAME.github.io.git" master:master
+          git push "https://$USER:$GH_TOKEN@github.com/$USER_NAME/TEST-BLOG.git" master:master
