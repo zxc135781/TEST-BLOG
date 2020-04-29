@@ -9,7 +9,7 @@ env:
   # 主题的 github 链接
   THEME_REPO: https://github.com/varkai/hugo-theme-zozo.git
   # github username
-  USER_NAME: Sihua
+  USER_NAME: zxc135781
   # github email
   EMAIL: 827169070@qq.com
   # GitHub token
